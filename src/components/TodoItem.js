@@ -10,6 +10,8 @@ function TodoItem({ todo, deleleTodo, onToggle }) {
             onLongPress={deleleTodo(todo.id)}>
             <Text style={styles[todo.isDone ? 'textDone' : 'text']}>{todo.task}</Text>
         </TouchableOpacity>
+
+
     );
 }
 
