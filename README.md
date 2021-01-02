@@ -1,4 +1,4 @@
-# iService
+# TodoList App
 
 <img width="40%" src="src/images/TodoApp1.PNG">
 <img width="40%" src="src/images/TodoApp2.PNG">
